@@ -1,2 +1,3 @@
 # ghp-cms
-Github pages CMS
+A Javascript only app for editing github pages posts
+
